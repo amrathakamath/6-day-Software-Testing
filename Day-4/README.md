@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 FastAPI Portfolio Deployment & Testing – Day 4 Summary
 
 ## 🧩 Session 1: FastAPI Deployment on Render
