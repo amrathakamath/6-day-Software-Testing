@@ -1,6 +1,6 @@
 ## Day 2 Summary
 
-X### First Session:
+### First Session:
 - We revisited **Virtual Environments** and **Git Flow**.
 - We created a simple **Profile Web Page** that displays a basic profile app.
 
