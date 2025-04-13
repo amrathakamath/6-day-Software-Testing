@@ -1,5 +1,0 @@
-Postman Collection Link:
-https://www.postman.com/workspace/My-Workspace~8c6d39fc-20ad-413b-86f4-60af37d2bd04/collection/33048716-68088e3b-c270-4ede-901c-2213c95e594c?action=share&creator=33048716
-
-GitHub Repository Link:
-https://github.com/amrathakamath/cars-api.git
